@@ -60,15 +60,6 @@ class tree {
         r_start = 3;
         d_end = x.length;
 
-        /*
-        x = B1(d_end, r_start, c - 2, x, u, d);
-        x = B1(d_end-2, r_start + 2, c - 3, x, u, d);
-        x = B1(d_end-4, r_start + 4, c - 4, x, u, d);
-        x = B1(d_end-6, r_start + 6, c - 5, x, u, d);
-        x = B1(d_end-8, r_start + 8, c - 6, x, u, d);
-        x = B1(d_end-10, r_start + 10, c - 7, x, u, d);
-        x = B1(d_end-12, r_start + 12, c - 8, x, u, d);
-         */
 
         int ct = 0;
         int dt = 0;
